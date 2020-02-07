@@ -1,4 +1,4 @@
-# stasistheorygenereator
+# stasis theory genereator
 
 Hello thinker! Welcome to my Elevator Pitch Generator web design tutorial, powered by Stasis Theory. I'm glad you found it--we're going to use a 2,000 year old formula to explain what you want specifically, why it's important, and what where you are going. I use this document in my Technical Communications classes at the University of Pittsburgh to teach my students a little bit about rhetoric, and a little bit about computer science. Just follow along and with comments like this, and you will make a really cool web documemt. 
 
