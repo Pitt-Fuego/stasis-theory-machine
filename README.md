@@ -4,9 +4,7 @@ Hello thinker!
 
 I like to think about stasis theory in terms of space and positionality. Some say the goal of stasis is a kind of stopping...But I think it has more to do with hitting pause...readying ourselves and others to move with changed velocity (in a new direction and perhaps at a different speed.) 
     
-To get started with the Stasis Theory Machine, you will need to fork my repository from GitHub if you haven't already. If you want to easily publish it on GitHub, I'll give you more information at the end of this document. But for right now, fork, and then download the website to a zip file. Go ahead and put these files in a secure place (folder) where you will be able to find them and organize your other assests like images and pdf's, etcetera. You will also need a text editor like "brackets.io" or "notepad-plus-plus.org." Open the style.css and index.html documents in the text editor and we can get started building our stasis theory web document.
-
-##Get Started
+## Get Started
 
 
 1. Create a GitHub account. 
