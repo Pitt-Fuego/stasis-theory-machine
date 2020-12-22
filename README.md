@@ -2,7 +2,7 @@
 
 Hello thinker! 
 
-Think about stasis theory in terms of space and positionality.The goal of stasis is a kind of stopping...But more in the sense of hitting the "pause" button...we're actually readying ourselves and others to change our velocity (moving in a new direction and perhaps at a different speed in relation to others.) 
+Think about stasis theory in terms of space and positionality. The goal of stasis is a kind of stopping...but more in the sense of hitting the "pause" button...we're actually readying ourselves and others to change our velocity (moving in a new direction and perhaps at a different speed in relation to others.) 
     
 ## Get Started
 
