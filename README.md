@@ -1,9 +1,35 @@
-# stasis theory genereator
+# Stasis Theory Machine
 
-Hello thinker! Welcome to the Elevator Pitch Generator web design tutorial, powered by Stasis Theory. I'm glad you found it--we're going to use a 2,000 year old formula to explain what you want specifically, why it's important, and what where you are going. I use this document in my Technical Communications classes at the University of Pittsburgh to teach my students a little bit about rhetoric, and a little bit about computer science. Just follow along and with comments like this, and you will make a really cool web documemt. 
+Hello thinker! 
 
-In this doc., you will work through the four questions of stasis: conjecture, definition, quality, and policy. This method is tried and true, 100% guaranteed to help you say something meaningful about almost anything. While the Greeks used it to help them explore questions and issues, the design can easily be adapted to other ends. You should commit this exercise of stasis to memory. That way, if you are ever stuck on an elevator with someone important...you'll be ready to have something to say. Yes, I hear the old elevator pitch finds its roots in Greece, starting all the way back with the designs of Archimedes, who built the first elevator in 236BC. This new technology caused numerous communication problems for those who found themselves stuck ascending and descending with important people. For almost two hundred years the Greeks had no idea what to say to one another until the rhetorician Hermagoras solved this communication problem by developing the questions of stasis. Later, and independently, both Cicero, Quintillian, and Hermogenes added their own iterations.   
-
-I like to think about stasis theory in terms of space. Some say the goal of this exercise is stasis, or agreement with the other, but I would argue that the goal os stasis theory is actually movement. Yes, when we come to stasis, we stop. But we stop onlyt long enough to assess how we got where we are and what happened. I argue that we actually use stasis theory to ready ourselves and others to move with changed velocity (in a new direction and perhaps at a different speed.) 
+I like to think about stasis theory in terms of space and positionality. Some say the goal of stasis is a kind of stopping...But I think it has more to do with hitting pause...readying ourselves and others to move with changed velocity (in a new direction and perhaps at a different speed.) 
     
- To get started with the Elevator Pitch Generator, you will need to fork my repository from GitHub if you haven't already. If you want to easily publish it on GitHub, I'll give you more information at the end of this document. But for right now, fork, and then download the website to a zip file. Go ahead and put these files in a secure place (folder) where you will be able to find them and organize your other assests like images and pdf's, etcetera. You will also need a text editor like "brackets.io" or "notepad-plus-plus.org." Open the style.css and index.html documents in the text editor and we can get started building our stasis theory web document. 
+To get started with the Stasis Theory Machine, you will need to fork my repository from GitHub if you haven't already. If you want to easily publish it on GitHub, I'll give you more information at the end of this document. But for right now, fork, and then download the website to a zip file. Go ahead and put these files in a secure place (folder) where you will be able to find them and organize your other assests like images and pdf's, etcetera. You will also need a text editor like "brackets.io" or "notepad-plus-plus.org." Open the style.css and index.html documents in the text editor and we can get started building our stasis theory web document.
+
+##Get Started
+
+
+1. Create a GitHub account. 
+
+2. Go to the the Elevator Pitch repository: [HERE](https://github.com/Pitt-Fuego/stasis-theory-machine)
+
+3. Click "Code": Download ZIP to local computer. 
+
+4. Go ahead and put these files in a secure place (folder) where you will be able to find them and where you will organize your other assets like images, pdfs, etcetera. 
+
+5. Download and/or open a text editor like [brackets.io](https://brackets.io), [atom.io](https://atom.io), or [notepad-plus-plus.org](notepad-plus-plus.org). 
+
+6. Use the text editor to open the style.css and index.html documents from your project folder.  
+
+7. Start by reading the index.html in text editor where you'll find instructions on how to build your own web text!
+
+8. Once you have modified and added your files to your project file, return to your GitHub page and create a new repository. Click  upload (push) your files. Upload, then hit "Commit!" 
+
+9. Go to repository settings, scroll down to Github pages, change setting from "none" to "main."  
+
+10. This will provide you with a published GitHub URL.
+
+11. Test the URL. Magic, no? Actually, it's computer science.  
+
+Check out our other cool coding tools [HERE](https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/)
+
