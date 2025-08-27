@@ -13,7 +13,7 @@ The stasis theory machine pauses you in space and time so you can figure out you
 
 3. Find this folder in your downloads. Move this folder to a secure place. You will return to this folder to manage your files and other assets like images, pdfs, etcetera. 
 
-4. Download and/or open a text editor like [atom.io](https://atom.io) or [notepad-plus-plus.org](notepad-plus-plus.org). 
+4. Download and/or open a code editor. We recommend [Visual Studio Code](https://code.visualstudio.com/Download). 
 
 5. Use the text editor to open the **index.html** documents and **style.css** from your project folder.  
 
